@@ -1,5 +1,5 @@
 # Advanced Regression Assignment
-> Housing dataset is provided and one is supposed to find most important features that impat sale price (target variable).
+> Housing dataset is provided and one is supposed to find most important features that impact sale price (target variable).
 
 
 ## Conclusions
@@ -7,4 +7,4 @@
 
 
 ## Contact
-Created by [@BhagavantraoPatil] - feel free to contact me!
+Created by @BhagavantraoPatil - feel free to contact me!
